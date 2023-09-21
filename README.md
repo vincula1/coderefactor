@@ -10,4 +10,4 @@ This project is a refactoring of an existing codebase aimed at improving code re
 
 ## Deployment
 
-The live application can be accessed [here](https://vincula1.github.io/coderefactor/).
+The application can be accessed through this link: [here](https://vincula1.github.io/coderefactor/).
